@@ -1,4 +1,4 @@
-package com.example.pr26_levenec;
+package com.example.Pr26_KhrupovDenis;
 
 
 import android.content.Intent;
